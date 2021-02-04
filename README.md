@@ -1,2 +1,2 @@
 # joewallace
-site portifolio joe wallace
+site portfolio joe wallace
