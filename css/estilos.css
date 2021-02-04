@@ -1,0 +1,40 @@
+body {
+    background: rgb(112, 128, 144);
+    background-size: 1100px 100vh;
+    height: 100vh;
+    background-image: url(https://wallpapercave.com/wp/wp6925776.jpg);
+    font-family: roboto;
+  }
+  .menu {
+    background: rgb(255, 195, 0);
+    
+   
+  }
+  .menu li {
+    list-style: none;
+  }
+  .menu ul {
+    display: flex; 
+    justify-content: space-around;
+  }
+  a {
+    text-decoration: none;
+    color: rgb(47, 79, 79);
+    
+  }
+  a:hover {
+    text-decoration: underline;
+    text-decoration-color: rgb(0, 255, 255);
+    color:  rgb(0, 255, 255);
+  }
+  .site-title, .site-subtitle {
+    text-align: center;
+  }
+  .site-title {  
+    color: rgb(255, 195, 0);
+    font-size: 55px;
+  }
+  .site-subtitle {  
+    color: rgb(185, 095, 0);
+    font-style: italic;
+  }
